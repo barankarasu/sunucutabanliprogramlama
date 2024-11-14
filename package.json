@@ -1,0 +1,15 @@
+{
+  "name": "eticaret_portali",
+  "version": "1.0.0",
+  "description": "Bu bir e-ticaret portalıdır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-ticaret",
+    "portal"
+  ],
+  "author": "Baran Karasu",
+  "license": "ISC"
+}
